@@ -1,0 +1,1 @@
+My first Go Project, pretty simple stopwatch. Press any key to stop the timer.
