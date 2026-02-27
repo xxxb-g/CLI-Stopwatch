@@ -43,7 +43,7 @@ func main() {
 		}
 	}()
 
-	fmt.Println("Starte Stopwatch. Drücke eine beliebige Taste zum Beenden.")
+	fmt.Println("Stopwach started. Press any key to stop.")
 
 	for running == true {
 		if running == true {
