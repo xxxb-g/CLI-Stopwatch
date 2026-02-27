@@ -1,1 +1,1 @@
-My first Go Project, pretty simple stopwatch. Press any key to stop the timer.
+My first Go Project, pretty simple stopwatch. Press any key to stop the timer. It is also my first project I host on Codeberg and on GitHub bc I think about switching to [Codeberg](https://codeberg.org) and keeping GH jus as a mirror.
