@@ -19,3 +19,4 @@ build-windows:
 
 clean:
 	rm -f stopwatch
+	rm -f stopwatch.exe
