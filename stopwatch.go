@@ -50,7 +50,6 @@ func main() {
 			fmt.Printf("\rElapsed time: %s", time.Since(start))
 		}
 		if running == false {
-			time.Sleep(0)
 			fmt.Printf("\rElapsed time: %s", time.Since(start))
 			term.Restore(int(os.Stdin.Fd()), oldState)
 			fmt.Println()
